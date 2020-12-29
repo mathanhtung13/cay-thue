@@ -1,0 +1,16 @@
+body{
+	background-image: url("Sova.jpg");
+	background-size:cover;
+}
+.mau {
+	color: #ED1316;
+	background: #161212;
+	font-size: 150%;
+	text-align: center;
+	font-family: arial;
+	font-style: italic;
+}
+.dau {
+	color: #11D85F;
+	text-align: center;
+}
